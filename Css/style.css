@@ -1,4 +1,17 @@
-* {
+/* hey no te robes mis estilos >:( */
+
+
+.footer a:hover .fab.fa-facebook {
+  color: blue; /* Cambiar a azul al pasar el cursor sobre el icono de Facebook */
+}
+
+.footer a:hover .fab.fa-instagram {
+  color: #833ab4; /* Cambiar al color del logo de Instagram (#833ab4) al pasar el cursor sobre el icono de Instagram */
+}
+
+
+ {
+
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -664,4 +677,4 @@ footer {
     main .hero .container_main_hero .picture_hero h3 {
         font-size: 1.5rem;
     }
-  }
+}
