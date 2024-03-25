@@ -1,7 +1,9 @@
 /* hey no te robes mis estilos >:( */
+
 .whatsapp-link:hover {
     color: green;
 }
+
 .footer a:hover .fab.fa-facebook {
   color: blue; /* Cambiar a azul al pasar el cursor sobre el icono de Facebook */
 }
